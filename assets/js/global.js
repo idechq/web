@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 $( function() {
 // Add background image
-	$.backstretch('images/road2.jpg');
+	$.backstretch('images/background.jpg');
 	var endDate = "February 28, 2021 23:59:59";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
