@@ -99,16 +99,10 @@ width:34px;
 height:34px; 
 display: inline-block;
 }
+.fa:hover {
+    color: rgb(139, 139, 139);
+}
 
-.facebookIcon{
-background-position: 10px 0px;
-}
-.linkedInIcon{
-background-position: -245px 0px;
-}
-.pintrestIcon{
-background-position: -331px 0px;
-}
 .tempBy{
 display:block;
 text-align:center;
@@ -191,7 +185,7 @@ font-weight:normal;
 margin-bottom:30px;
 }
 .styled{
-  margin-bottom: 30px;
+  margin-bottom: 80px;
 }
 .styled div {
 display: inline-block;
