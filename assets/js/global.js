@@ -1,6 +1,6 @@
 $( function() {
 // Add background image
-	var endDate = "February 28, 2021 23:59:59";
+	var endDate = "February 5, 2021 23:59:59";
 	$('.countdown.simple').countdown({ date: endDate });
 	$('.countdown.styled').countdown({
 	  date: endDate,
